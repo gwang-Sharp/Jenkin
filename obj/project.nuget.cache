@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4ShKsotpmJ1KFX1kVlgExH7TZOqtf9Hi01qhe5t1Cs83EjdbydrcF5XjPSAitZDYCOa1A3RueNSe2X1R+dycFw==",
+  "dgSpecHash": "frqXjsWcsrmt+IL6OiDLm88C6Q1EVRo3Rw9CBAX0kiNPDOrU8KWGF27ciWCPgCPG+tf3AABHfU+MCWeAsD5Crw==",
   "success": true,
-  "projectFilePath": "F:\\练习\\Jenkins_Core\\WebApplication1\\WebApplication1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\练习\\Jenkins_Core\\WebApplication1\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WangGang\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
   "logs": []
 }
